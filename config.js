@@ -1,6 +1,4 @@
-// config.js
 module.exports = {
-   botToken: "YOUR_BOT_TOKEN", // Modify your bot TOKEN here
-   hostURL: "YOUR_URL", // Modify your host URL here
+   botToken: "6909520188:AAEBKk6K7YDKuNrx3hZpmepEgnlxzAimkzk",
+   hostURL: "YOUR_URL",
 };
-// for port forewording use "ssh -R 80:localhost:5000 serveo.net"
